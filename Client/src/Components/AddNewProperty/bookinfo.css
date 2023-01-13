@@ -1,0 +1,14 @@
+.main_section{
+    margin-top: 7%;
+    align-items: center;
+    margin-left: 20%;
+}
+button{
+    width: 130px;
+    height: 30px;
+    margin: 10px;
+}
+.heading{
+    text-align: justify;
+    margin-left: 7%;
+}
